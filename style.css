@@ -74,7 +74,7 @@ header {
 .tag {
   display: inline-block;
   background-color: lightgreen;
-  padding: 10px;
+  padding: 4px 10px;
   margin-right: 8px;
 }
 
