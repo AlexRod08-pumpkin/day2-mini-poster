@@ -26,6 +26,6 @@ p {
    color: darkgreen;
 }
 
-•poster:hover { 
+.poster:hover {
   background-color: #b2d8b2;
-          }
+}
