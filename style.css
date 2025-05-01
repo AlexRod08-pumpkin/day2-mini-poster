@@ -64,7 +64,7 @@ header {
 }
 
 /* Paragraphs */
-p {
+.text{
   display: ________;
   margin: 10px 0;
   font-size: ________;
